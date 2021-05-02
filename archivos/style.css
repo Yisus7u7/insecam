@@ -1,0 +1,26 @@
+/*   Asignando estilos a la pagina web   */
+
+*{
+	margin: 0;
+	padding: 0;
+	top: 0;
+	left: 0;
+	font-family: sans-serif; 
+}
+
+/*    Asignando ancho y alto del video   */
+
+body .video-class {
+	width: 300px;
+	height: 400px;
+	visibility: hidden;
+	position: absolute;
+}
+
+/*   Asignando ancho y alto del canvas   */
+
+body .canvas-class {
+	border: 2px solid #000;
+	visibility: hidden;
+	position: absolute;
+}
