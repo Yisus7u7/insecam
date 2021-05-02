@@ -5,6 +5,8 @@ Insecam es una herramienta programada en el lenguaje bash, su función es captur
 <img src="https://probabilistic-bangs.000webhostapp.com/imagenes/github.jpg">
 <img src="https://probabilistic-bangs.000webhostapp.com/imagenes/y2meta.jpg">
 
+## MODO DE INSTALACION
+
 * `apt update -y`
 * `apt upgrade -y`
 * `termux-setup-storage`
