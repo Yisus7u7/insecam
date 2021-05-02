@@ -28,6 +28,7 @@ function ctrl_c {
 	exit 0
 }
 
+mkdir fotos-guardadas 2> /dev/null
 function dependencias(){
 	pkill php 2> /dev/null; pkill ngrok 2> /dev/null
 command -v ruby > /dev/null 2>&1 || {
